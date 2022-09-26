@@ -1,0 +1,15 @@
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\bin\Debug\net6.0\BaaseSnake.exe
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\bin\Debug\net6.0\BaaseSnake.deps.json
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\bin\Debug\net6.0\BaaseSnake.runtimeconfig.json
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\bin\Debug\net6.0\BaaseSnake.dll
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\bin\Debug\net6.0\BaaseSnake.pdb
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\BaaseSnake.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\BaaseSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\BaaseSnake.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\BaaseSnake.AssemblyInfo.cs
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\BaaseSnake.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\BaaseSnake.dll
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\refint\BaaseSnake.dll
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\BaaseSnake.pdb
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\BaaseSnake.genruntimeconfig.cache
+C:\BettrootCourses\lesson17\SnakeGame\BaaseSnake\obj\Debug\net6.0\ref\BaaseSnake.dll
